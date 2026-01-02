@@ -1,0 +1,9 @@
+timestamp,action,details,source_id,status
+2026-01-02T22:56:59.072134,data_loaded,Loaded 5 reviews and 2 emails,,
+2026-01-02T22:57:33.028305,processed,,R001,success
+2026-01-02T22:58:07.969438,processed,,R008,success
+2026-01-02T22:58:46.392263,processed,,R009,success
+2026-01-02T22:59:13.024905,processed,,R014,success
+2026-01-02T22:59:44.194482,processed,,R016,success
+2026-01-02T23:00:26.205669,processed,,E008,success
+2026-01-02T23:00:57.815466,processed,,E009,success

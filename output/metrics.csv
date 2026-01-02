@@ -1,1 +1,2 @@
-
+timestamp,total_feedback,tickets_generated,success_rate,reviews_processed,emails_processed
+2026-01-02T23:00:57.889692,7,7,100.00%,5,2

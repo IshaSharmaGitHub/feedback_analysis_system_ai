@@ -1,0 +1,78 @@
+source_id,source_type,created_at,original_content,processing_result
+R001,app_review,2026-01-02T22:57:33.028291,"App crashes every time I try to export my data. This started after the latest update. Please fix ASAP! Using Samsung Galaxy S21, Android 13.","```json
+{
+  ""Quality_Score"": 95,
+  ""Issues_Found"": [],
+  ""Suggestions_for_improvement"": [
+    ""Consider adding a section for user impact metrics to quantify the severity of the issue."",
+    ""Include a specific timeline for resolution if possible.""
+  ],
+  ""Approval_Status"": ""Approved""
+}
+```"
+R008,app_review,2026-01-02T22:58:07.969421,"URGENT: App deletes my notes randomly. Lost important meeting notes. OnePlus 11, Android 14. Steps: 1) Create note 2) Add images 3) Close app 4) Reopen - note is gone!","```json
+{
+  ""quality_score"": 95,
+  ""issues_found"": [],
+  ""suggestions_for_improvement"": [
+    ""Consider adding a section for potential impact on users or business to further emphasize the urgency of the issue.""
+  ],
+  ""approval_status"": ""Approved""
+}
+```"
+R009,app_review,2026-01-02T22:58:46.392249,Please add voice-to-text feature. Would make note-taking so much faster during meetings.,"{
+    ""Quality Score"": 85,
+    ""Issues Found"": [
+        ""The severity assessment is marked as 'Low', which may not align with the high priority assigned to this feature request. This inconsistency could lead to confusion regarding the urgency of the implementation."",
+        ""The description, while clear, could benefit from more specific examples of how users would utilize the voice-to-text feature in their daily tasks.""
+    ],
+    ""Suggestions for improvement"": [
+        ""Reassess the severity assessment to match the high priority level. If the feature is critical for user productivity, consider marking it as 'High' or 'Medium'."",
+        ""Enhance the description by including specific scenarios or user stories that illustrate the need for this feature, which can help in understanding its impact better.""
+    ],
+    ""Approval Status"": ""Needs Revision""
+}"
+R014,app_review,2026-01-02T22:59:13.024892,Best update yet! The new features are exactly what I needed. Keep up the great work!,"```json
+{
+    ""quality_score"": 85,
+    ""issues_found"": [
+        ""The priority 'High' may not be appropriate for a ticket categorized as 'Praise'. Typically, praise or positive feedback should be classified as 'Medium' or 'Low' priority unless it directly impacts a critical issue or feature."",
+        ""The submission date in 'technical_details' is in the future (December 30, 2025), which is inconsistent with the current context.""
+    ],
+    ""suggestions_for_improvement"": [
+        ""Consider revising the priority to 'Medium' or 'Low' to better reflect the nature of the ticket."",
+        ""Update the submission date to a realistic past or current date.""
+    ],
+    ""approval_status"": ""Needs Revision""
+}
+```"
+R016,app_review,2026-01-02T22:59:44.194461,CHECK THIS OUT! AMAZING CRYPTO INVESTMENT OPPORTUNITY! Click here: bit.ly/scam123 GET RICH NOW!!!,"```json
+{
+  ""quality_score"": 95,
+  ""issues_found"": [],
+  ""suggestions_for_improvement"": [
+    ""Consider adding a timeline for the recommended actions to ensure timely execution.""
+  ],
+  ""approval_status"": ""Approved""
+}
+```"
+E008,support_email,2026-01-02T23:00:26.205649,CRITICAL BUG - Notes Disappearing | CRITICAL BUG REPORT. My notes are randomly disappearing from the app. This has happened three times this week. Most recent incident: Yesterday I created detailed me...,"{
+  ""Quality Score"": 95,
+  ""Issues Found"": [],
+  ""Suggestions for improvement"": [
+    ""Consider adding a section for potential impact on users or business operations to emphasize urgency."",
+    ""Include a reference to any previous tickets or similar issues for better context.""
+  ],
+  ""Approval Status"": ""Approved""
+}"
+E009,support_email,2026-01-02T23:00:57.815450,"Feature Request - Voice to Text | Hi Product Team, Love your app! One feature that would make it even better is voice-to-text support. During meetings, it's difficult to type everything out, and being...","```json
+{
+  ""quality_score"": 90,
+  ""issues_found"": [],
+  ""suggestions_for_improvement"": [
+    ""Consider adding a section for estimated timeline for implementation to provide more context for stakeholders."",
+    ""Include potential challenges or limitations that may arise during the implementation of the voice-to-text feature.""
+  ],
+  ""approval_status"": ""Approved""
+}
+```"
