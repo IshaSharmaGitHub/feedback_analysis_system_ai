@@ -1,1 +1,6 @@
-
+review_id,platform,rating,review_text,user_name,date,app_version
+R001,Google Play,1,"App crashes every time I try to export my data. This started after the latest update. Please fix ASAP! Using Samsung Galaxy S21, Android 13.",John_Smith_92,2025-12-28,3.0.1
+R008,Google Play,1,"URGENT: App deletes my notes randomly. Lost important meeting notes. OnePlus 11, Android 14. Steps: 1) Create note 2) Add images 3) Close app 4) Reopen - note is gone!",EmergencyBug,2025-12-31,3.0.1
+R009,App Store,4,"Please add voice-to-text feature. Would make note-taking so much faster during meetings.",VoiceNoteUser,2025-12-28,3.0.0
+R014,Google Play,5,"Best update yet! The new features are exactly what I needed. Keep up the great work!",SuperFan_101,2025-12-30,3.0.1
+R016,Google Play,1,"CHECK THIS OUT! AMAZING CRYPTO INVESTMENT OPPORTUNITY! Click here: bit.ly/scam123 GET RICH NOW!!!",SpamBot_9876,2025-12-25,2.8.0

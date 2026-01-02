@@ -1,0 +1,8 @@
+source_id,source_type,category,priority,technical_details,suggested_title
+R001,app_review,Bug,High,"Device: Samsung Galaxy S21, Android 13, Version: 3.0.1. Crash on data export functionality.","[BUG] App crashes on data export - v3.0.1 (Samsung Galaxy S21)"
+R008,app_review,Bug,Critical,"Device: OnePlus 11, Android 14, Version: 3.0.1. Notes with images disappear randomly. Steps: Create note > Add images > Close app > Reopen > Note gone.","[BUG] Critical data loss - notes with images disappearing randomly"
+R009,app_review,Feature Request,Medium,"Request for voice-to-text feature for faster note-taking during meetings","[FEATURE] Add voice-to-text support for note-taking"
+R014,app_review,Praise,Low,"Positive feedback on latest update features","N/A - Positive feedback on update"
+R016,app_review,Spam,Low,"Spam content promoting cryptocurrency scam","N/A - Spam content flagged"
+E008,support_email,Bug,Critical,"Device: OnePlus 11, Android 14, Version: 3.0.1. Data loss: Create note > Add text+images > Save > Close > Wait > Reopen > Note missing. Reproduced 3x this week.","[BUG] Critical data loss - notes with images disappearing"
+E009,support_email,Feature Request,Medium,"Request for voice-to-text support for meeting note-taking","[FEATURE] Voice-to-text for meeting notes"
